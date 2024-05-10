@@ -1,0 +1,15 @@
+/* Colors */
+.text-primary { color: var(--primary); }
+.text-secondary { color: var(--secondary); }
+.text-highlight { color: var(--highlight); }
+.text-dark { color: var(--dark); }
+.text-light { color: var(--light); }
+.text-white { color: var(--white); }
+
+/* Backgrounds */
+.bg-primary { background-color: var(--primary); }
+.bg-secondary { background-color: var(--secondary); }
+.bg-highlight { background-color: var(--highlight); }
+.bg-dark { background-color: var(--dark); }
+.bg-light { background-color: var(--light); }
+.bg-white { background-color: var(--white); }
